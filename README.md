@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2> Hello, I'm Caio. </h2>
 
-<!--
-**caiovini64/caiovini64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Engineering at Federal University of Sergipe.
+- 💼 Working in Data Visualization in Power BI at City Hall of Aracaju.
+- 🌱 Learning Web Development, UI and UX design and Software Engineering.
+- 💻 Knowledge in Python, JavaScript, HTML, CSS, Photoshop, Figma and Adobe XD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Latest Projects </h3>
+
+- [Spotify Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_spotify_redesign)
+- [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
