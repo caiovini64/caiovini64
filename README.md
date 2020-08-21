@@ -5,7 +5,7 @@
 - 🎓 Studying Computer Engineering at Federal University of Sergipe.
 - 💼 Working in Data Visualization in Power BI at City Hall of Aracaju.
 - 🌱 Learning Web Development, UI and UX design and Software Engineering.
-- 💻 Knowledge in Python, JavaScript, HTML, CSS, Photoshop, Figma and Adobe XD.
+- 💻 Knowledge in Python, Dart, JavaScript, HTML, CSS, Photoshop, Figma and Adobe XD.
 
 <h3> Latest Projects </h3>
 
