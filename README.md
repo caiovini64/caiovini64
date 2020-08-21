@@ -12,3 +12,7 @@
 - [Today I Learned](https://github.com/caiovini64/til)
 - [Spotify Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_spotify_redesign)
 - [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
+
+<h3> Blogs <h3>
+ 
+- [Como usar CSS Grid no Vue.js](https://medium.com/@caioj3505/como-usar-css-grid-no-vue-js-4baa65b8944b)
