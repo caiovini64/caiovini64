@@ -9,6 +9,7 @@
 
 <h3> Latest Projects </h3>
 
+- [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/caiovini64/Huddle-Landing-Page)
 - [Today I Learned](https://github.com/caiovini64/til)
 - [Spotify Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_spotify_redesign)
 - [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
