@@ -16,4 +16,4 @@
 
 
 <h3>Blogs</h3>
-- [Como utilizar FontAwesome no Flutter](https://medium.com/@caioj3505/como-utilizar-ofontawesome-no-flutter-bc2cd5eb6ba9)
+-[Como utilizar FontAwesome no Flutter](https://medium.com/@caioj3505/como-utilizar-ofontawesome-no-flutter-bc2cd5eb6ba9)
