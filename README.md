@@ -15,5 +15,5 @@
 - [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
 
 
-<h3>Blogs</h3>
+<h3> Blogs </h3>
 -[Como utilizar FontAwesome no Flutter](https://medium.com/@caioj3505/como-utilizar-ofontawesome-no-flutter-bc2cd5eb6ba9)
