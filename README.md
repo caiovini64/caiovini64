@@ -13,7 +13,7 @@
 - [Today I Learned](https://github.com/caiovini64/til)
 - [Spotify Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_spotify_redesign)
 - [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
-Blogs
+<h3>Blogs</h3>
 - [Como utilizar FontAwesome no Flutter](https://medium.com/@caioj3505/como-utilizar-ofontawesome-no-flutter-bc2cd5eb6ba9)
 
 
