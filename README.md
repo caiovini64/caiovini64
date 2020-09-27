@@ -1,13 +1,15 @@
-## Hello, I'm Caio.
+## Olá.
 
-### About Me
+### Sobre Mim
 
-- 🎓 Studying Computer Engineering at Federal University of Sergipe.
-- 💼 Working in Data Visualization in Power BI at City Hall of Aracaju.
-- 🌱 Learning Web Development, UI and UX design and Software Engineering.
-- 💻 Knowledge in Python, Dart, Flutter, HTML, CSS, Photoshop, Figma and Adobe XD.
+ Atualmente tenho focado meus estudos e tempo em desenvolvimento Dart para dominar a linguagem tanto no desenvolvimento Mobile com Flutter quanto em outras possíveis áreas que ela possa atuar.
 
-### Latest Projects
+- 🎓 Estudando Engenharia de Computação na Universidade Federal de Sergipe.
+- 💼 Estagiário de TI na SEPLOG, trabalhando com visualização de dados em Power BI.
+- 🌱 Focando meus estudos em Dart e Flutter.
+- 💻 Conhecimento em Dart, Flutter, HTML, CSS, Figma, Adobe XD.
+
+### Últimos Projetos
 
 - [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/caiovini64/Huddle-Landing-Page)
 - [Today I Learned](https://github.com/caiovini64/til)
