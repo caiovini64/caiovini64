@@ -12,7 +12,7 @@
 ### Últimos Projetos
 
 - [Aplicativo em Flutter que consome API APOD da Nasa](https://github.com/caiovini64/flutter-apod)
-- [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/caiovini64/flutter-apod)
+- [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/caiovini64/Huddle-Landing-Page)
 - [Spotify Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_spotify_redesign)
 - [Netflix Redesign with Flutter and Figma](https://github.com/caiovini64/flutter_NetflixLoginPage)
 
