@@ -11,6 +11,7 @@
 
 ### Últimos Projetos
 
+- [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
 - [Aplicativo em Flutter para Processo Seletivo da Avonale](https://github.com/caiovini64/flutter-TMDB)
 - [Aplicativo em Flutter que consome API APOD da Nasa](https://github.com/caiovini64/flutter-apod)
 - [Aplicativo de Loja de Games utilizando Provider](https://github.com/caiovini64/game-shop-flutter)
