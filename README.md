@@ -11,6 +11,7 @@
 
 ### Últimos Projetos
 
+- [Aplicativo Taskee - Lista de tarefas com Provider e FireBase](https://github.com/caiovini64/taskee-app)
 - [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
 - [Aplicativo em Flutter para Processo Seletivo da Avonale](https://github.com/caiovini64/flutter-TMDB)
 - [Aplicativo em Flutter que consome API APOD da Nasa](https://github.com/caiovini64/flutter-apod)
