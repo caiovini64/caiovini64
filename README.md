@@ -11,7 +11,7 @@
 
 ### Últimos Projetos
 
--[Aplicativo Moviee de recomendações de filmes utilizando Clean Architecture e TDD](https://github.com/caiovini64/moviee)
+- [Aplicativo Moviee de recomendações de filmes utilizando Clean Architecture e TDD](https://github.com/caiovini64/moviee)
 - [Aplicativo Taskee - Lista de tarefas com Provider e FireBase](https://github.com/caiovini64/taskee-app)
 - [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
 - [Aplicativo em Flutter que consome API da TMDB utilizando todo ecossistema get](https://github.com/caiovini64/moviee-TMDB/tree/main/lib/app)
