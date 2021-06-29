@@ -11,13 +11,12 @@
 
 ### Últimos Projetos
 
+-[Aplicativo Moviee de recomendações de filmes utilizando Clean Architecture e TDD](https://github.com/caiovini64/moviee)
 - [Aplicativo Taskee - Lista de tarefas com Provider e FireBase](https://github.com/caiovini64/taskee-app)
 - [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
+- [Aplicativo em Flutter que consome API da TMDB utilizando todo ecossistema get](https://github.com/caiovini64/moviee-TMDB/tree/main/lib/app)
 - [Aplicativo em Flutter para Processo Seletivo da Avonale](https://github.com/caiovini64/flutter-TMDB)
-- [Aplicativo em Flutter que consome API APOD da Nasa](https://github.com/caiovini64/flutter-apod)
 - [Aplicativo de Loja de Games utilizando Provider](https://github.com/caiovini64/game-shop-flutter)
-- [Projeto front-end da Maratona Discover](https://github.com/caiovini64/devfinance)
-- [Projeto de sistema de listagem de aplicações em vagas de emprego](https://github.com/caiovini64/vacation)
 
 ### Blogs
 
