@@ -15,7 +15,6 @@
 - [Aplicativo Taskee - Lista de tarefas com Provider e FireBase](https://github.com/caiovini64/taskee-app)
 - [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
 - [Aplicativo em Flutter que consome API da TMDB utilizando todo ecossistema get](https://github.com/caiovini64/moviee-TMDB/tree/main/lib/app)
-- [Aplicativo em Flutter para Processo Seletivo da Avonale](https://github.com/caiovini64/flutter-TMDB)
 - [Aplicativo de Loja de Games utilizando Provider](https://github.com/caiovini64/game-shop-flutter)
 
 ### Blogs
