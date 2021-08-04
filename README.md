@@ -1,24 +1,11 @@
-## Olá.
+<img align='right' src='https://media.giphy.com/media/5pYqpyP6cUry6vT9RO/giphy.gif' width='300"'>
 
-### Sobre Mim
+Hi! My name is **Caio Jesus**. I'm a Flutter Developer from Sergipe, Brazil. I'm currently working on Grupo Fasitec as a flutter analyst and developer. I have interests in Flutter, Dart, Vue.js and Software Architecture.
 
-- Estudando Engenharia de Computação na Universidade Federal de Sergipe.
-- Focando meus estudos em Dart e Flutter.
-- Apaixonado por Arquitetura de Software.
-- Conhecimento em Dart, Flutter, HTML, CSS, Figma, Adobe XD.
+## Principal Projects
+- [Taskee](https://github.com/caiovini64/taskee): A TaskBoard app made with Flutter using Clean Architecture and TDD
+- [Just Movie it](https://github.com/caiovini64/just-movie-it): A web app of Movie Recommendations made with Flutter using Clean Architecture
 
-### Últimos Projetos
-
-- [Aplicativo Just Movie it de recomendações de filmes utilizando Clean Architecture e TDD](https://github.com/caiovini64/just-movie-it)
-- [Aplicativo Taskee - Lista de tarefas com Provider e FireBase](https://github.com/caiovini64/taskee-app)
-- [Projeto Fasitecando Mobile que consome API Reqres.in](https://github.com/caiovini64/fasitecando-mobile)
-- [Aplicativo de Loja de Games utilizando Provider](https://github.com/caiovini64/game-shop-flutter)
-
-### Blogs
-
+## Tech Articles
 - [Afinal, o que é o BuildContext no Flutter?](https://caioj3505.medium.com/afinal-o-que-%C3%A9-o-buildcontext-no-flutter-bac320763911)
 - [Acessibilidade no Flutter](https://caioj3505.medium.com/acessibilidade-no-flutter-2cd3d9bf21dc)
-- [Como utilizar FontAwesome no Flutter](https://medium.com/@caioj3505/como-utilizar-ofontawesome-no-flutter-bc2cd5eb6ba9)
-
-
-
