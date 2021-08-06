@@ -2,7 +2,7 @@
 
 Hi! My name is **Caio Jesus**. I'm a Flutter Developer from Sergipe, Brazil. I'm currently working on Grupo Fasitec as a flutter analyst and developer. I have interests in Flutter, Dart, Vue.js and Software Architecture.
 
-## Principal Projects
+## Main Projects
 - [Taskee](https://github.com/caiovini64/taskee): A TaskBoard app made with Flutter using Clean Architecture and TDD
 - [Just Movie it](https://github.com/caiovini64/just-movie-it): A web app of Movie Recommendations made with Flutter using Clean Architecture
 
