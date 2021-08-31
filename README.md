@@ -4,7 +4,7 @@ Olá, meu nome é **Caio Jesus**. Sou analista e desenvolvedor Flutter junior, a
 
 ## Principais Projetos
 - [Taskee](https://github.com/caiovini64/taskee): Um app de tarefas baseado em kanban utilizando Clean Architecture, TDD e GitFlow.
-- [Just Movie it](https://github.com/caiovini64/just-movie-it): Um web app de recomendação de filmes utilizando Clean Architecture e TDD.
+- [Just Movie it](https://github.com/caiovini64/just-movie-it): App de recomendação de filmes.
 
 ## Principais Artigos
 - [Afinal, o que é o BuildContext no Flutter?](https://caioj3505.medium.com/afinal-o-que-%C3%A9-o-buildcontext-no-flutter-bac320763911)
