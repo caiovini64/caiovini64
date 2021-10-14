@@ -1,6 +1,6 @@
 <img align='right' src='https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' width='300"'>
 
-Olá, meu nome é **Caio Jesus**. Sou analista e desenvolvedor Flutter junior, atualmente, trabalhando no Grupo Fasitec. Tenho interesses em Flutter, Dart, Arquitetura de Software e Engenharia de Software.  
+Olá, meu nome é **Caio Jesus**. Sou analista e desenvolvedor Flutter junior, atualmente, trabalhando na DevMagic. Tenho interesses em Flutter, Dart, Arquitetura de Software e testes unitários.
 
 ## Principais Projetos
 - [Taskee](https://github.com/caiovini64/taskee): Um app de tarefas baseado em kanban utilizando Clean Architecture, TDD e GitFlow.
